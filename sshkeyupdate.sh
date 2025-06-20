@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -e
 # Beállítások
 REPO_URL="https://github.com/cloudhoreca/sshkey.git"  # Git repository URL
 TARGET_USER="root"                           # A rendszerfelhasználó neve
