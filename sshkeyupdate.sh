@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Beállítások
-REPO_URL="https://github.com/valaki/ssh-keys.git"  # Git repository URL
-TARGET_USER="deployuser"                           # A rendszerfelhasználó neve
+REPO_URL="https://github.com/cloudhoreca/sshkey.git"  # Git repository URL
+TARGET_USER="root"                           # A rendszerfelhasználó neve
 TMP_DIR="/tmp/ssh-keys"                            # Ideiglenes könyvtár
 
 # 1. Repo klónozása
